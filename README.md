@@ -118,10 +118,11 @@ The API uses region-specific JSON files to manage guest accounts.
 
 #### Example Request:
 ```http
-GET /like?uid=1234567890
+GET /like2000000uid=12982165668
 ```
 ## 📜 Credits
 
 This project was created by [Paul Alfredo](https://github.com/paulafredo).  
 Feel free to check out his GitHub profile for more projects and contributions.
+
 
